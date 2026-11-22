@@ -1,0 +1,11 @@
+{
+  "bankId": "sci-5a-u1",
+  "name": "五年級自然：太陽與天氣",
+  "author": "王老師",
+  "questions": [
+    {"type": "choice", "question": "下面哪一種雲最容易帶來雷陣雨？", "options": ["卷雲", "積雨雲", "層雲", "高積雲"], "answer": 2, "difficulty": 2, "subject": "自然", "explain": "積雨雲又高又厚，常帶來雷電和大雨。"},
+    {"type": "truefalse", "question": "太陽從西邊升起。", "answer": "X", "difficulty": 1, "subject": "自然", "explain": "太陽從東邊升起、西邊落下。"},
+    {"type": "order", "question": "依照一天中影子由長到短再變長排好", "options": ["早上", "中午", "傍晚"], "answer": "1,2,3", "difficulty": 3, "subject": "自然", "explain": "中午太陽最高，影子最短。"},
+    {"type": "number", "question": "水在攝氏 100 度沸騰，那水在攝氏幾度結冰？", "answer": 0, "difficulty": 2, "subject": "自然", "explain": "在一般大氣壓力下，水在 0°C 結冰。"}
+  ]
+}
