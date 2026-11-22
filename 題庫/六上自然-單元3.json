@@ -1,0 +1,440 @@
+{
+  "name": "六年級自然：單元三",
+  "author": "AI 出題",
+  "questions": [
+    {
+      "type": "choice",
+      "question": "人體內，骨骼與骨骼連接的地方稱為什麼？",
+      "options": ["肌腱", "關節", "肌肉", "神經"],
+      "answer": 2,
+      "difficulty": 1,
+      "subject": "自然",
+      "explain": "關節是骨骼與骨骼連接的地方，讓我們能做出不同動作。"
+    },
+    {
+      "type": "choice",
+      "question": "下列哪一種構造主要負責支撐並保護人體？",
+      "options": ["骨骼", "肌肉", "肌腱", "氣管"],
+      "answer": 1,
+      "difficulty": 1,
+      "subject": "自然",
+      "explain": "骨骼能支撐身體、幫助運動並保護內部器官。"
+    },
+    {
+      "type": "choice",
+      "question": "蝸牛沒有腳，牠主要是利用哪個部位的肌肉爬行？",
+      "options": ["腕足", "斧足", "腹足", "觸角"],
+      "answer": 3,
+      "difficulty": 1,
+      "subject": "自然",
+      "explain": "蝸牛利用腹足肌肉的收縮與舒張向前爬行。"
+    },
+    {
+      "type": "choice",
+      "question": "魚類在水中主要利用哪一個器官進行氣體交換？",
+      "options": ["肺", "氣管", "皮膚", "鰓"],
+      "answer": 4,
+      "difficulty": 1,
+      "subject": "自然",
+      "explain": "魚用鰓吸收水中的氧氣，並將二氧化碳排出到水中。"
+    },
+    {
+      "type": "choice",
+      "question": "構成生物體最小的單位是什麼？",
+      "options": ["組織", "器官", "細胞", "系統"],
+      "answer": 3,
+      "difficulty": 1,
+      "subject": "自然",
+      "explain": "細胞是構成生物體的最小單位。"
+    },
+    {
+      "type": "truefalse",
+      "question": "蝗蟲等昆蟲和人類一樣，都是用肺呼吸。",
+      "answer": "X",
+      "difficulty": 1,
+      "subject": "自然",
+      "explain": "蝗蟲等昆蟲是利用氣管進行氣體交換。"
+    },
+    {
+      "type": "truefalse",
+      "question": "蛙鞋的發明靈感，是模仿動物腳上的蹼。",
+      "answer": "O",
+      "difficulty": 1,
+      "subject": "自然",
+      "explain": "科學家模仿動物的蹼設計出蛙鞋，幫助人類在水中游動。"
+    },
+    {
+      "type": "order",
+      "question": "請將生物體組成層次由小到大排列",
+      "options": ["細胞", "組織", "器官", "器官系統", "個體"],
+      "answer": "1,2,3,4,5",
+      "difficulty": 1,
+      "subject": "自然",
+      "explain": "細胞組成組織，組織組成器官，再組成器官系統與個體。"
+    },
+    {
+      "type": "number",
+      "question": "蝴蝶是昆蟲，牠的身體有幾隻腳？",
+      "answer": 6,
+      "difficulty": 1,
+      "subject": "自然",
+      "explain": "蝴蝶屬於昆蟲，具有六隻腳和翅膀。"
+    },
+    {
+      "type": "number",
+      "question": "人體的呼吸系統主要包含鼻、氣管和肺，共幾種器官？",
+      "answer": 3,
+      "difficulty": 1,
+      "subject": "自然",
+      "explain": "課文介紹人體呼吸系統主要有鼻、氣管、肺三種器官。"
+    },
+    {
+      "type": "choice",
+      "question": "關於「肌腱」的敘述，下列哪一項是正確的？",
+      "options": ["能主動收縮產生力量", "位於肌肉的兩端", "是骨骼連接骨骼的地方", "顏色呈鮮紅色"],
+      "answer": 2,
+      "difficulty": 2,
+      "subject": "自然",
+      "explain": "肌腱位於肌肉兩端呈白色，連接肌肉與骨骼。"
+    },
+    {
+      "type": "choice",
+      "question": "當我們把手臂「彎曲」時，手臂肌肉會有什麼變化？",
+      "options": ["內側舒張，外側收縮", "內側和外側同時收縮", "內側收縮，外側舒張", "內側和外側同時舒張"],
+      "answer": 3,
+      "difficulty": 2,
+      "subject": "自然",
+      "explain": "手臂彎曲時，內側肌肉會收縮，外側肌肉會舒張。"
+    },
+    {
+      "type": "choice",
+      "question": "下列哪一種動物沒有骨骼和關節，只靠肌肉運動？",
+      "options": ["蚯蚓", "金魚", "蜥蜴", "麻雀"],
+      "answer": 1,
+      "difficulty": 2,
+      "subject": "自然",
+      "explain": "蚯蚓沒有骨骼和關節，靠身體肌肉收縮舒張爬行。"
+    },
+    {
+      "type": "choice",
+      "question": "檢驗人體呼出的氣體時，應該使用哪一種液體？",
+      "options": ["碘液", "澄清石灰水", "食鹽水", "酒精"],
+      "answer": 2,
+      "difficulty": 2,
+      "subject": "自然",
+      "explain": "澄清石灰水碰到二氧化碳會變混濁，可用來檢驗。"
+    },
+    {
+      "type": "choice",
+      "question": "人體吸入空氣後，氣體交換主要在哪一個器官進行？",
+      "options": ["鼻", "氣管", "心臟", "肺"],
+      "answer": 4,
+      "difficulty": 2,
+      "subject": "自然",
+      "explain": "空氣進入肺部後，氧氣與二氧化碳在此進行氣體交換。"
+    },
+    {
+      "type": "choice",
+      "question": "模仿生物構造與行為來研發產品，稱為什麼？",
+      "options": ["複製", "仿生", "養殖", "分類"],
+      "answer": 2,
+      "difficulty": 2,
+      "subject": "自然",
+      "explain": "模仿生物構造與行為研發工具或產品，稱為仿生。"
+    },
+    {
+      "type": "truefalse",
+      "question": "河蚌沒有腳，牠會伸出腕足利用肌肉收縮舒張來移動。",
+      "answer": "X",
+      "difficulty": 2,
+      "subject": "自然",
+      "explain": "河蚌伸出的是「斧足」，「腕足」是章魚的構造。"
+    },
+    {
+      "type": "truefalse",
+      "question": "蝸牛在爬行時，腹足前端會分泌黏液來幫助移動。",
+      "answer": "O",
+      "difficulty": 2,
+      "subject": "自然",
+      "explain": "蝸牛腹足前端有黏液腺，分泌黏液可幫助爬行。"
+    },
+    {
+      "type": "order",
+      "question": "請排出人類吸氣時，空氣進入體內的正確順序",
+      "options": ["鼻", "氣管", "肺"],
+      "answer": "1,2,3",
+      "difficulty": 2,
+      "subject": "自然",
+      "explain": "吸氣時空氣由鼻吸入，經由氣管進入肺部。"
+    },
+    {
+      "type": "number",
+      "question": "使用「二分法」分類時，每次要選擇幾種特徵標準來分類？",
+      "answer": 1,
+      "difficulty": 2,
+      "subject": "自然",
+      "explain": "二分法每次只選擇一種特徵標準，將生物分成兩類。"
+    },
+    {
+      "type": "choice",
+      "question": "舉啞鈴把手臂彎起來時，負責「拉動骨骼」的是哪個構造？",
+      "options": ["關節", "肌肉", "骨骼", "皮膚"],
+      "answer": 2,
+      "difficulty": 3,
+      "subject": "自然",
+      "explain": "肌肉藉由收縮或舒張產生力量，拉動骨骼做出動作。"
+    },
+    {
+      "type": "choice",
+      "question": "比較鳥和人的運動構造，下列哪一項是兩者的「共同點」？",
+      "options": ["都有一對翅膀", "都能利用雙翼飛行", "都有肌肉、骨骼和關節", "都沒有關節"],
+      "answer": 3,
+      "difficulty": 3,
+      "subject": "自然",
+      "explain": "鳥和人都有肌肉、骨骼和關節，且都能用兩隻腳走或跳。"
+    },
+    {
+      "type": "choice",
+      "question": "若想用二分法把「狗」和「鳥、蛙、金魚」分開，可用哪個標準？",
+      "options": ["是不是卵生", "有沒有腳", "有沒有尾巴", "是不是胎生"],
+      "answer": 4,
+      "difficulty": 3,
+      "subject": "自然",
+      "explain": "狗是胎生動物，而鳥、蛙、金魚都是卵生動物。"
+    },
+    {
+      "type": "choice",
+      "question": "魚在水中呼吸時，氧氣和二氧化碳能夠交換的原因是什麼？",
+      "options": ["魚會浮出水面吸氣", "這兩種氣體都能溶於水", "魚鰓能自己製造氧氣", "水溫很低不會散失氣體"],
+      "answer": 2,
+      "difficulty": 3,
+      "subject": "自然",
+      "explain": "氧氣和二氧化碳都可以溶於水，魚鰓能進行氣體交換。"
+    },
+    {
+      "type": "choice",
+      "question": "現代漁業推動「箱網養殖」取代傳統魚塭，主要好處是什麼？",
+      "options": ["減少陸地水土資源衝擊", "魚類生長速度變快十倍", "不需要餵食任何飼料", "完全不會有颱風的風險"],
+      "answer": 1,
+      "difficulty": 3,
+      "subject": "自然",
+      "explain": "傳統魚塭依賴陸地水土資源，箱網養殖可減少環境衝擊。"
+    },
+    {
+      "type": "choice",
+      "question": "觀察吸盤的構造與功能，它最可能是模仿哪種動物研發的？",
+      "options": ["變色龍", "章魚", "蝸牛", "蚯蚓"],
+      "answer": 2,
+      "difficulty": 3,
+      "subject": "自然",
+      "explain": "吸盤模仿章魚腕足上的吸盤構造，能吸附在物體表面。"
+    },
+    {
+      "type": "truefalse",
+      "question": "肌腱和肌肉一樣，都能主動收縮來帶動骨骼運動。",
+      "answer": "X",
+      "difficulty": 3,
+      "subject": "自然",
+      "explain": "肌腱不能主動收縮，只能負責傳遞肌肉的力量給骨骼。"
+    },
+    {
+      "type": "truefalse",
+      "question": "「呼吸系統」是由鼻、氣管和肺等不同功能的器官所組成。",
+      "answer": "O",
+      "difficulty": 3,
+      "subject": "自然",
+      "explain": "器官系統是由具有不同功能的器官組合而成的。"
+    },
+    {
+      "type": "order",
+      "question": "請排出驗證呼出氣體的正確實驗順序",
+      "options": ["提出問題", "蒐集資料", "提出假設", "設計並進行實驗", "分析結果並寫結論"],
+      "answer": "1,2,3,4,5",
+      "difficulty": 3,
+      "subject": "自然",
+      "explain": "科學探究步驟為：問題、資料、假設、實驗、結果與結論。"
+    },
+    {
+      "type": "number",
+      "question": "「蛙、蝴蝶、鳥、金魚、蜥蜴、狗」中，有幾種是卵生動物？",
+      "answer": 5,
+      "difficulty": 3,
+      "subject": "自然",
+      "explain": "除了狗是胎生外，蛙、蝴蝶、鳥、金魚、蜥蜴共5種是卵生。"
+    },
+    {
+      "type": "choice",
+      "question": "如果一個人的「肌腱」受傷斷裂，會對運動造成什麼影響？",
+      "options": ["骨骼會立刻碎裂", "肌肉力量無法傳給骨骼", "關節會完全消失", "肌肉會變成白色"],
+      "answer": 2,
+      "difficulty": 4,
+      "subject": "自然",
+      "explain": "肌腱連接肌肉與骨骼，斷裂會使肌肉力量無法傳遞給骨骼。"
+    },
+    {
+      "type": "choice",
+      "question": "比較蚯蚓和蝸牛的移動方式，下列哪一項敘述是正確的？",
+      "options": ["兩者都有堅硬的外殼", "兩者都靠腹足肌肉爬行", "兩者都沒有骨骼和關節", "兩者都能快速向後倒退"],
+      "answer": 3,
+      "difficulty": 4,
+      "subject": "自然",
+      "explain": "蚯蚓和蝸牛都沒有骨骼和關節，皆靠肌肉收縮舒張爬行。"
+    },
+    {
+      "type": "choice",
+      "question": "蝸牛在葉片上爬行時，如果前方有障礙物，牠會怎麼做？",
+      "options": ["腹足肌肉反方向收縮後退", "縮進殼裡用滾的過去", "慢慢轉彎修改前進角度", "用觸角把障礙物推開"],
+      "answer": 3,
+      "difficulty": 4,
+      "subject": "自然",
+      "explain": "蝸牛無法後退，想改變方向只能慢慢轉彎修改前進角度。"
+    },
+    {
+      "type": "choice",
+      "question": "做吹氣實驗時，為什麼規定「短吸管不可接觸到澄清石灰水」？",
+      "options": ["避免吹氣時液體噴濺或吸入", "吸管碰到石灰水會融化", "石灰水碰到吸管會變色", "避免空氣跑進塑膠袋裡"],
+      "answer": 1,
+      "difficulty": 4,
+      "subject": "自然",
+      "explain": "避免吹氣時石灰水噴出，也防止不小心將澄清石灰水吸入口中。"
+    },
+    {
+      "type": "choice",
+      "question": "關於「鼻的上皮組織」，下列哪一個組成關係的敘述正確？",
+      "options": ["由多個鼻器官組成", "由許多上皮細胞組成", "由呼吸系統組成", "是構成生物的最小單位"],
+      "answer": 2,
+      "difficulty": 4,
+      "subject": "自然",
+      "explain": "組織是由細胞組成的，因此鼻的上皮組織由上皮細胞組成。"
+    },
+    {
+      "type": "choice",
+      "question": "科學家想設計一款能「伸長抓取高處物品」的工具，可模仿誰？",
+      "options": ["變色龍的舌頭", "鳥類的翅膀", "魚類的魚鰭", "蝸牛的腹足"],
+      "answer": 1,
+      "difficulty": 4,
+      "subject": "自然",
+      "explain": "變色龍能快速伸長舌頭捕食，適合模仿設計取物工具。"
+    },
+    {
+      "type": "truefalse",
+      "question": "把手臂完全伸直時，內側肌肉是處於「收縮」的狀態。",
+      "answer": "X",
+      "difficulty": 4,
+      "subject": "自然",
+      "explain": "手臂伸直時，是內側肌肉舒張、外側肌肉收縮。"
+    },
+    {
+      "type": "truefalse",
+      "question": "現代養雞場提供戶外活動空間取代格子籠，有助於動物福利與食安。",
+      "answer": "O",
+      "difficulty": 4,
+      "subject": "自然",
+      "explain": "提供適當活動空間取代格子籠，能兼顧動物健康與食品安全。"
+    },
+    {
+      "type": "order",
+      "question": "請排出「吹氣檢驗二氧化碳」實驗的正確操作步驟",
+      "options": ["塑膠袋裝石灰水並插短吸管綁緊", "對著吸管輕輕吐氣", "另一袋裝等量石灰水並收集空氣", "分別搖晃兩袋觀察混濁變化"],
+      "answer": "1,2,3,4",
+      "difficulty": 4,
+      "subject": "自然",
+      "explain": "先分別準備吐氣袋與空氣袋，最後再一起搖晃觀察變化。"
+    },
+    {
+      "type": "number",
+      "question": "「雞、蜥蜴、虎、兔、水牛、鴨」中，有幾種動物具有「羽毛」？",
+      "answer": 2,
+      "difficulty": 4,
+      "subject": "自然",
+      "explain": "只有雞和鴨屬於鳥類，身上具有羽毛，共2種。"
+    },
+    {
+      "type": "choice",
+      "question": "小華說：「人體呼出的氣體全是二氧化碳，沒有其他氣體。」這句話哪裡錯？",
+      "options": ["呼出的氣體其實全是氧氣", "呼出氣體還含有氮氣等其他氣體", "人體呼出的氣體不含二氧化碳", "只有運動時才會呼出二氧化碳"],
+      "answer": 2,
+      "difficulty": 5,
+      "subject": "自然",
+      "explain": "人體呼出的氣體中，除了較多的二氧化碳，還含有氮氣等氣體。"
+    },
+    {
+      "type": "choice",
+      "question": "驗證呼出氣體實驗中，設置「只裝空氣的塑膠袋」目的是什麼？",
+      "options": ["當作對照組比較混濁程度", "用來清洗多餘的澄清石灰水", "測試塑膠袋會不會漏氣", "測量空氣的重量有多重"],
+      "answer": 1,
+      "difficulty": 5,
+      "subject": "自然",
+      "explain": "與裝空氣的袋子比較，才能證明呼出氣體含較多二氧化碳。"
+    },
+    {
+      "type": "choice",
+      "question": "在生物分類時，為什麼通常不適合用「會不會動」當作二分法標準？",
+      "options": ["因為所有動物都不會動", "因為標準太模糊容易產生爭議", "因為只有昆蟲才會移動", "因為植物比動物更會動"],
+      "answer": 2,
+      "difficulty": 5,
+      "subject": "自然",
+      "explain": "二分法需選用明確的外形、構造或繁殖特徵，避免模糊爭議。"
+    },
+    {
+      "type": "choice",
+      "question": "下列哪一組動物的「運動構造」與「呼吸器官」配對完全正確？",
+      "options": ["蝗蟲：翅膀、肺", "金魚：鰭、鰓", "狗：四肢、氣管", "蝸牛：斧足、肺"],
+      "answer": 2,
+      "difficulty": 5,
+      "subject": "自然",
+      "explain": "金魚用鰭游泳、用鰓呼吸；蝗蟲用氣管、狗用肺、蝸牛用腹足。"
+    },
+    {
+      "type": "choice",
+      "question": "小明做吹氣實驗，發現兩袋澄清石灰水都沒變混濁，最可能的原因是？",
+      "options": ["澄清石灰水已經變質失效", "呼出的氣體裡面沒有二氧化碳", "塑膠袋的容量太大了", "搖晃塑膠袋的時間太長"],
+      "answer": 1,
+      "difficulty": 5,
+      "subject": "自然",
+      "explain": "若石灰水已變質或濃度不足，即使吹入二氧化碳也不會變混濁。"
+    },
+    {
+      "type": "choice",
+      "question": "關於「生物體組成層次」的敘述，下列哪一位同學的說法正確？",
+      "options": ["小美：肺屬於呼吸組織", "阿強：細胞是最小的組成單位", "小華：器官系統由細胞直接組成", "大明：肌腱是一個獨立的器官系統"],
+      "answer": 2,
+      "difficulty": 5,
+      "subject": "自然",
+      "explain": "細胞是最小單位；肺是器官；器官系統由多個器官組成。"
+    },
+    {
+      "type": "truefalse",
+      "question": "因為魚用鰓呼吸，所以把魚撈上岸後，牠還是能直接利用魚鰓吸收空氣中的氧氣。",
+      "answer": "X",
+      "difficulty": 5,
+      "subject": "自然",
+      "explain": "魚鰓需要水流經過才能展開並吸收溶於水的氧氣，離水無法呼吸。"
+    },
+    {
+      "type": "truefalse",
+      "question": "蚯蚓和蝸牛都沒有骨骼，但蚯蚓靠身體肌肉伸縮變長縮短爬行，蝸牛靠腹足爬行。",
+      "answer": "O",
+      "difficulty": 5,
+      "subject": "自然",
+      "explain": "兩者雖都無骨骼，但運用的肌肉部位與爬行方式不同。"
+    },
+    {
+      "type": "order",
+      "question": "請排出「氣體交換後，二氧化碳排出體外」的正確路徑",
+      "options": ["肺", "氣管", "鼻"],
+      "answer": "1,2,3",
+      "difficulty": 5,
+      "subject": "自然",
+      "explain": "肺部交換後的二氧化碳，經由肺、氣管，最後由鼻排出體外。"
+    },
+    {
+      "type": "number",
+      "question": "「狗、鳥、蚯蚓、金魚、章魚」中，共有幾種動物體內具有「骨骼」？",
+      "answer": 3,
+      "difficulty": 5,
+      "subject": "自然",
+      "explain": "狗、鳥、金魚體內有骨骼；蚯蚓和章魚沒有骨骼，共3種。"
+    }
+  ]
+}
