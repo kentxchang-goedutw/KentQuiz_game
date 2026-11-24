@@ -1,0 +1,333 @@
+{
+  "speakers": {
+    "teacher": {
+      "name": "林老師",
+      "voice": "zh-TW-HsiaoChenNeural",
+      "rate": "+0%",
+      "pitch": "+0Hz"
+    },
+    "principal": {
+      "name": "王校長",
+      "voice": "zh-TW-YunJheNeural",
+      "rate": "-8%",
+      "pitch": "-8Hz"
+    },
+    "bird": {
+      "name": "藍啚",
+      "voice": "zh-TW-HsiaoYuNeural",
+      "rate": "+15%",
+      "pitch": "+30Hz"
+    },
+    "aming": {
+      "name": "阿明",
+      "voice": "zh-TW-YunJheNeural",
+      "rate": "+12%",
+      "pitch": "+25Hz"
+    },
+    "ying": {
+      "name": "小瑩",
+      "voice": "zh-TW-HsiaoYuNeural",
+      "rate": "-5%",
+      "pitch": "+0Hz"
+    },
+    "qiang": {
+      "name": "胖仔強",
+      "voice": "zh-TW-YunJheNeural",
+      "rate": "-5%",
+      "pitch": "+12Hz"
+    },
+    "class": {
+      "name": "同學們",
+      "voice": "zh-TW-HsiaoYuNeural",
+      "rate": "+10%",
+      "pitch": "+20Hz"
+    },
+    "all": {
+      "name": "全體",
+      "voice": "zh-TW-HsiaoChenNeural",
+      "rate": "-10%",
+      "pitch": "+10Hz"
+    },
+    "rival": {
+      "name": "對手 阿傲",
+      "voice": "zh-TW-YunJheNeural",
+      "rate": "+8%",
+      "pitch": "+6Hz"
+    }
+  },
+  "lines": [
+    {
+      "id": "V01",
+      "speaker": "all",
+      "text": "好～學～小～學～堂～！",
+      "say": "好，學，小，學，堂！"
+    },
+    {
+      "id": "V02",
+      "speaker": "bird",
+      "text": "啚啚！同學請入座～",
+      "say": "圖圖！同學請入座！"
+    },
+    {
+      "id": "V04_1",
+      "speaker": "teacher",
+      "text": "第一題，請作答！"
+    },
+    {
+      "id": "V04_2",
+      "speaker": "teacher",
+      "text": "第二題，請作答！"
+    },
+    {
+      "id": "V04_3",
+      "speaker": "teacher",
+      "text": "第三題，請作答！"
+    },
+    {
+      "id": "V04_4",
+      "speaker": "teacher",
+      "text": "第四題，請作答！"
+    },
+    {
+      "id": "V04_5",
+      "speaker": "teacher",
+      "text": "第五題，請作答！"
+    },
+    {
+      "id": "V04_6",
+      "speaker": "teacher",
+      "text": "第六題，請作答！"
+    },
+    {
+      "id": "V04_7",
+      "speaker": "teacher",
+      "text": "第七題，請作答！"
+    },
+    {
+      "id": "V04_8",
+      "speaker": "teacher",
+      "text": "第八題，請作答！"
+    },
+    {
+      "id": "V04_9",
+      "speaker": "teacher",
+      "text": "第九題，請作答！"
+    },
+    {
+      "id": "V04_10",
+      "speaker": "teacher",
+      "text": "第十題，請作答！"
+    },
+    {
+      "id": "V04_11",
+      "speaker": "teacher",
+      "text": "第十一題，請作答！"
+    },
+    {
+      "id": "V04_12",
+      "speaker": "teacher",
+      "text": "第十二題，請作答！"
+    },
+    {
+      "id": "V05a",
+      "speaker": "teacher",
+      "text": "答對了！"
+    },
+    {
+      "id": "V05b",
+      "speaker": "teacher",
+      "text": "正解！"
+    },
+    {
+      "id": "V05c",
+      "speaker": "teacher",
+      "text": "很棒喔！"
+    },
+    {
+      "id": "V06a",
+      "speaker": "teacher",
+      "text": "哎呀～錯了啦！",
+      "say": "哎呀，錯了啦！"
+    },
+    {
+      "id": "V06b",
+      "speaker": "teacher",
+      "text": "可惜～",
+      "say": "可惜！"
+    },
+    {
+      "id": "V07",
+      "speaker": "bird",
+      "text": "快點快點！"
+    },
+    {
+      "id": "V08",
+      "speaker": "teacher",
+      "text": "時間到～放下筆！",
+      "say": "時間到，放下筆！"
+    },
+    {
+      "id": "V16",
+      "speaker": "teacher",
+      "text": "下課～明天再來喔！",
+      "say": "下課！明天再來喔！"
+    },
+    {
+      "id": "V20",
+      "speaker": "bird",
+      "text": "啚啚，別難過，拍拍～",
+      "say": "圖圖，別難過，拍拍！"
+    },
+    {
+      "id": "V25",
+      "speaker": "teacher",
+      "text": "搶答開始！"
+    },
+    {
+      "id": "V26",
+      "speaker": "teacher",
+      "text": "恭喜冠軍隊伍！"
+    },
+    {
+      "id": "P_aming_intro",
+      "speaker": "aming",
+      "text": "我是阿明！這題我會啦！"
+    },
+    {
+      "id": "P_aming_ouch",
+      "speaker": "aming",
+      "text": "啊～怎麼會這樣！",
+      "say": "啊！怎麼會這樣！"
+    },
+    {
+      "id": "P_ying_intro",
+      "speaker": "ying",
+      "text": "我是小瑩……讓我想想，一起加油吧。"
+    },
+    {
+      "id": "P_ying_ouch",
+      "speaker": "ying",
+      "text": "嗚……我再查一下字典。"
+    },
+    {
+      "id": "P_qiang_intro",
+      "speaker": "qiang",
+      "text": "我是胖仔強！下課去福利社！"
+    },
+    {
+      "id": "P_qiang_ouch",
+      "speaker": "qiang",
+      "text": "嘿嘿，沒關係啦！"
+    },
+    {
+      "id": "B01",
+      "speaker": "bird",
+      "text": "GO！轉轉轉～",
+      "say": "GO！轉轉轉！"
+    },
+    {
+      "id": "B02",
+      "speaker": "teacher",
+      "text": "LUCKY！好運來了！"
+    },
+    {
+      "id": "B03",
+      "speaker": "rival",
+      "text": "又是你？這種程度也想當班長？"
+    },
+    {
+      "id": "B04",
+      "speaker": "rival",
+      "text": "哼，算你運氣好！"
+    },
+    {
+      "id": "B05",
+      "speaker": "teacher",
+      "text": "分岐點！要走哪一條路？"
+    },
+    {
+      "id": "B06",
+      "speaker": "principal",
+      "text": "天堂還是地獄？一題決定！"
+    },
+    {
+      "id": "B07",
+      "speaker": "bird",
+      "text": "校外教學出發囉！"
+    },
+    {
+      "id": "B08",
+      "speaker": "teacher",
+      "text": "快問快答，限時開始！"
+    },
+    {
+      "id": "B09",
+      "speaker": "teacher",
+      "text": "成功！"
+    },
+    {
+      "id": "B10",
+      "speaker": "teacher",
+      "text": "失敗……",
+      "say": "失敗了。"
+    },
+    {
+      "id": "B11",
+      "speaker": "class",
+      "text": "恭喜榮昇！"
+    },
+    {
+      "id": "B12",
+      "speaker": "teacher",
+      "text": "被降級了……",
+      "say": "被降級了。"
+    },
+    {
+      "id": "B13",
+      "speaker": "bird",
+      "text": "要接關嗎？快投幣！"
+    },
+    {
+      "id": "B14",
+      "speaker": "bird",
+      "text": "這個人是誰？仔細看喔！"
+    },
+    {
+      "id": "B15",
+      "speaker": "teacher",
+      "text": "下面哪一個說法是錯的？"
+    },
+    {
+      "id": "B16",
+      "speaker": "bird",
+      "text": "幸運旋轉機！拉霸拉霸！"
+    },
+    {
+      "id": "B17",
+      "speaker": "class",
+      "text": "哇～中大獎！",
+      "say": "哇！中大獎！"
+    },
+    {
+      "id": "B18",
+      "speaker": "teacher",
+      "text": "看提示，猜猜看！"
+    },
+    {
+      "id": "B19",
+      "speaker": "principal",
+      "text": "你的榮昇只到了這裡……被冷落的滋味可真不好受啊。",
+      "say": "你的榮昇只到了這裡。被冷落的滋味，可真不好受啊。"
+    },
+    {
+      "id": "B20",
+      "speaker": "principal",
+      "text": "恭喜你成為全校榜首！"
+    },
+    {
+      "id": "B21",
+      "speaker": "principal",
+      "text": "咳咳！期末審查，開始！"
+    }
+  ]
+}
