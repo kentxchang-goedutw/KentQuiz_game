@@ -139,7 +139,7 @@ const localData = { samples: useSamples, hideManager, banks: localBanks, combos:
 localData.version = crypto.createHash('sha1').update(JSON.stringify(localData) + read('src/banks.js')).digest('hex').slice(0, 12);
 
 // ---------- 組成 HTML ----------
-const js = ['store.js', 'art.js', 'audio.js', 'engine.js', 'banks.js', 'game.js', 'manager.js']
+const js = ['store.js', 'art.js', 'audio.js', 'engine.js', 'banks.js', 'game.js', 'board.js', 'manager.js']
   .map(f => `// ---------- ${f} ----------\n` + read('src/' + f)).join('\n');
 const safeJSON = o => JSON.stringify(o).replace(/<\//g, '<\\/');
 if (/<\/script/i.test(js)) throw new Error('程式碼裡不能出現 </script>');
